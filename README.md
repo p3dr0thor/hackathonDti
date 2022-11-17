@@ -241,5 +241,30 @@ Saída: "10101"
 
 10) Imagine que você possui ```n``` blocos para construir uma escadaria. Para cada nova altura ```h``` adicionada na escada deve-se adicionar um bloco em sua base, conforme a imagem a seguir:
 
-![](escada.png)
+<p align="center">
+  <img src="escada.png" alt="Sublime's custom image"/>
+</p>
 
+Crie uma função que receba um número de ```n``` blocos e retorne um vetor de 3 posições contendo na primeira posição o número máximo possível de blocos utilizados para se montar uma escadaria, na segunda posição a altura atingida ```h``` da escadaria e na terceira posição a quantidade de blocos que restam.
+
+
+**Exemplo 1:**
+
+```
+Entrada: n = "5"
+Saída: [3, 2, 3]
+```
+
+**Exemplo 2:**
+
+```
+Entrada: n = "16"
+Saída: [15, 5, 1]
+```
+
+**Exemplo 3:**
+
+```
+Entrada: n = "6"
+Saída: [6, 3, 0]
+```
