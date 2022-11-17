@@ -25,7 +25,7 @@ Explicação: A última palavra "Bill" tem o comprimento 4
 ```
 ---
 
-2) Escreva uma função que receba um número ```n``` e diga se ele é **palito**
+2) Escreva uma função que receba um número ```n``` e diga se ele é **palito**.
    Um número palito é um número definido seguindo o processo:
    * Considerando um número inteiro positivo, substitua o número pela soma dos quadrados de seus algarismos;
    * Repita o processo até que o número seja igual a 1 ou que o digito restante seja diferente de 1;
@@ -73,6 +73,8 @@ Saída: false
 ---
 
 3) Dado 2 números inteiros e positivos ```dividendo``` e ```divisor```, crie uma função que receba esses 2 números e retorne o resultado da divisão, o **quociente** de ```dividendo``` por  ```divisor```. O resultado da operação deveria ser truncado, como por exemplo, dado um resultado 5.698 deve ser truncado para 5.
+
+Obs: Não é permitido usar operação de divisão, multiplicação e operador mod.
 
 **Exemplo 1:**
 
