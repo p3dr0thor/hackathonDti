@@ -178,14 +178,14 @@ Entrada: t = "(abcd)"
 Saída: "(dcba)"
 ```
 
-**Exemplo 2:**
+**Exemplo 3:**
 
 ```
 Entrada: t = "(abcd)"
 Saída: "(dcba)"
 ```
 
-**Exemplo 3:**
+**Exemplo 4:**
 
 ```
 Entrada: t = "abcdefgh()"
