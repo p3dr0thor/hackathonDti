@@ -2,7 +2,19 @@
 
 ## Regras
 
-'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)
+* O grupo será dividido em times com o número de integrantes a ser definito pelos membros da dti no início do desafio;
+* Cada time terá uma pessoa codificando e as demais irão observar. Contudo o time pode interagir entre si para chegar nos resultados esperados para o desafio;
+* A cada período de tempo, a ser definido pelos membros da dti no inicio do desafio, deve-se rotacionar o time, ou seja, uma nova pessoa deverá estar escrevendo o código independente do estado em que o código estiver. Cada membro do time só poderá voltar a codificar assim que todos os outros membros tiverem completado a rodada.
+* O time deverá usar o site https://replit.com/languages/nodejs (ver figura a seguir) e selecionar a linguagem de preferência para a resolução do problema. A linguagem pode ser alterada sempre que o time sentir necessidade.
+
+<p align="center">
+  <img src="telaSiteReplit.png" alt="Sublime's custom image"/>
+</p>
+
+* Cada time será acompanhado por um membro da dti. Este irá monitorar o comportamento do time em relação ao seguimento das regras. Sempre que alguma regra for quebrada o time perde ponto. Serão permitidas pesquisas no buscador de preferência do time, desde que a pesquisa não revele a resposta ou parte importante da resposta para o time. Toda pesquisa a ser feita deve ser declarada ao membro da dti que irá dizer se pode ser feita ou não. Exemplo de pesquisa permitida: _"Como inicializar um vetor em Java"_, _"como declarar uma função em C++"_, _"como converter um inteiro em string"_, etc.
+* As questões podem ser resovidas na ordem em que o time preferir. O time também pode trocar de questão mesmo que não tenha terminado. Serão pontuadas as questões que forem terminadas pelo time. Considera-se que uma questão foi terminada quando o time aplicou os exemplos citados em cada questão e obteve o valor esperado. Além disso, o membro da dti deverá validar as entradas e saídas das funções implementadas e poderá a seu critério aplicar novas entradas, respeitando as regras do enunciado de cada questão. Quando o membro da dti confirmar o termino da questão de forma correta o time pontua.
+* Ganha o desafio o time terminar todas as questões em menor tempo ou o que somar o maior número de pontos ao fim do tempo do desafio. Em caso de empate, os times receberão um desafio bônus e ganha quem conseguir terminar primeiro.
+* As questões tem o mesmo valor de pontos, mas possuem níveis de dificuldades diferentes.
 
 ## Questões
 
