@@ -6,6 +6,9 @@
 * Cada time terá uma pessoa codificando e as demais irão observar. Contudo o time pode interagir entre si para chegar nos resultados esperados para o desafio;
 * A cada período de tempo, a ser definido pelos membros da dti no início do desafio, deve-se rotacionar o time, ou seja, uma nova pessoa deverá estar escrevendo o código independente do estado em que o código estiver. Cada membro do time só poderá voltar a codificar assim que todos os outros membros tiverem completado a rodada.
 * O time deverá usar o site https://replit.com/languages/nodejs (ver figura a seguir) e selecionar a linguagem de preferência para a resolução do problema. A linguagem pode ser alterada sempre que o time sentir necessidade.
+* A cada questão resolvida o time acumulará 10 pontos.
+* O primeiro time a resolver a questão receberá 15 pontos.
+* O time que acumular o maior número de pontos será o campeão dessa edição do Hackathon.
 
 <p align="center">
   <img src="telaSiteReplit.png" alt="Sublime's custom image"/>
