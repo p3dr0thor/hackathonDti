@@ -17,7 +17,7 @@
 * Cada time será acompanhado por um membro da dti. Este irá monitorar o comportamento do time em relação ao seguimento das regras. Sempre que alguma regra for quebrada o time perde ponto. Serão permitidas pesquisas no buscador de preferência do time, desde que a pesquisa não revele a resposta ou parte importante da resposta para o time. Toda pesquisa a ser feita deve ser declarada ao membro da dti que irá dizer se pode ser feita ou não. Exemplo de pesquisa permitida: _"Como inicializar um vetor em Java"_, _"como declarar uma função em C++"_, _"como converter um inteiro em string"_, etc.
 * As questões podem ser resolvidas na ordem em que o time preferir. O time também pode trocar de questão mesmo que não tenha terminado. Serão pontuadas as questões que forem terminadas pelo time. Considera-se que uma questão foi terminada quando o time aplicou os exemplos citados em cada questão e obteve o valor esperado. Além disso, o membro da dti deverá validar as entradas e saídas das funções implementadas e poderá a seu critério aplicar novas entradas, respeitando as regras do enunciado de cada questão. Quando o membro da dti confirmar o término da questão de forma correta, o time pontua.
 * Ganha o desafio o time terminar todas as questões em menor tempo ou o que somar o maior número de pontos ao fim do tempo do desafio. Em caso de empate, os times receberão um desafio bônus e ganha quem conseguir terminar primeiro.
-* As questões têm o mesmo valor de pontos, mas possuem níveis de dificuldades diferentes.
+* As questões possuem níveis de dificuldades diferentes.
 
 ## Questões
 
@@ -269,7 +269,7 @@ Crie uma função que receba um número de ```n``` blocos e retorne um vetor de 
 
 ```
 Entrada: n = "5"
-Saída: [3, 2, 3]
+Saída: [3, 2, 2]
 ```
 
 **Exemplo 2:**
